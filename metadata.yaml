@@ -1,0 +1,46 @@
+_repo: The-Iliad_6130
+_version: 0.0.1
+contributor:
+  annotator:
+    agent_name: Buckley, Theodore Alois
+    alias: Buckley, T. A. (Theodore Alois)
+    birthdate: 1825
+    deathdate: 1856
+    gutenberg_agent_id: '25301'
+    url: http://www.gutenberg.org/2009/agents/25301
+  translator:
+    agent_name: Pope, Alexander
+    alias: Barnivelt, Esdras
+    birthdate: 1688
+    deathdate: 1744
+    gutenberg_agent_id: '907'
+    url: http://www.gutenberg.org/2009/agents/907
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Pope
+creator:
+  author:
+    agent_name: Homer
+    alias: Όμηρος
+    birthdate: -750
+    deathdate: -650
+    gutenberg_agent_id: '705'
+    url: http://www.gutenberg.org/2009/agents/705
+    wikipedia: http://en.wikipedia.org/wiki/Homer
+description: ''
+gutenberg_bookshelf: Classical Antiquity
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6130'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trojan War -- Poetry'
+- !lcsh 'Classical literature'
+- !lcsh 'Achilles (Mythological character) -- Poetry'
+- !lcsh 'Epic poetry, Greek -- Translations into English'
+- !lcc 'PA'
+- GITenberg
+title: The Iliad
+url: http://www.gutenberg.org/ebooks/6130
